@@ -13,7 +13,9 @@
 
 - 📄 Know about my experiences [I have completed a hotel project as part of an assignment, showcasing my ability to handle real-world projects. Additionally, I hold certificates from freeCodeCamp in Responsive Web Design and JavaScript Algorithms and Data Structures.](I have completed a hotel project as part of an assignment, showcasing my ability to handle real-world projects. Additionally, I hold certificates from freeCodeCamp in Responsive Web Design and JavaScript Algorithms and Data Structures.)
 
-- ⚡ Fun fact **I have a passion for eating and love trying new foods. Exploring diverse cuisines is one of my favorite pastimes.**
+- ⚡ Fun fact **Certainly! Here's an enhanced version:
+
+"I have a passion for exploring new cuisines and delight in spending time with animals.". Exploring diverse cuisines is one of my favorite pastimes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
